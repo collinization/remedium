@@ -25,4 +25,5 @@
 How to run project:
 
 1. Navigate into "/backend" directory and use command "node index.js"
-2. Navigate to "frontend" directory and use command "npm start"
+2. Navigate to "frontend" directory and use command "npm start" (req "npm i react-scripts" to run the frontend)
+
