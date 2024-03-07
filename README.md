@@ -17,7 +17,7 @@
 |    :---:     |     :---:     |     :---:       |
 | Spencer Heltsley| sheltsle@mail.sfsu.edu | Spencer-Heltsley |
 | Kevin Chan      | kchan17@sfsu.edu               | kchan438        |
-| Zi Collin Hua Zhen      | zzhen1@mail.sfsu.edu              |collinization                 |
+| Lucas Zhen      | zzhen1@mail.sfsu.edu              | isaIucas                 |
 | Kolapo Agunbiade  |     Kagunbiade@mail.sfsu.edu           |  kagunbiade                |
 | Andrew Keelin   | akeelin@mail.sfsu.edu | andrewkeelin |
 ## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
